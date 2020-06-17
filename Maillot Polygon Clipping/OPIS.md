@@ -23,7 +23,7 @@ Sva temena poligona će prolaziti dodatan osnovni test okretnice `basic turning 
 
 Cilj je da se generišu tačke okretnica samo kada je segmen delimično, ili potpuno, odbačen od strane algoritma odsecanja linija.
 
-Cohen-Sutherland algoritam odsecanja linija je opisan [ovde](../../../Računarska%20grafika%201/Domaci/Cohen-Sutherland/OPIS.md).
+Cohen-Sutherland algoritam odsecanja linija je opisan [ovde](../Cohen-Sutherland/OPIS.md).
 
 ### Koncepti algoritma
 
