@@ -1,0 +1,4 @@
+1. Neophodno je da korisnik ima instaliran Node (https://nodejs.org/en/)
+2. Kao i Typescript globalno (npm i -g typescript)
+3. Fajl se prevodi u JavaScript komandom: tsc .\watkins.ts
+4. A onda pokreće komandom: node .\watkins.js
